@@ -101,12 +101,7 @@ Gesture dead-zones to reduce accidental triggers
 FPS calculation for performance monitoring
 Hysteresis-based pinch detection
 
-📸 Demo
-Add screenshots or GIFs here after uploading to GitHub.
 
-Example:
-
-![Demo](demo.gif)
 🔮 Future Improvements
 Custom gesture mapping
 Virtual keyboard
